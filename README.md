@@ -1,4 +1,4 @@
-# Stochastic-Oscilator-for-Cryptocurrencies
+# Stochastic-Oscilator-Criptocurrencies
 This Python project utilizes the Streamlit framework to create an interactive web application for analyzing cryptocurrency data from the Kraken exchange. The application incorporates features such as fetching historical OHLC (Open, High, Low, Close) data, calculating and visualizing technical indicators like the Stochastic Oscillator, candle charts and comparing different cryptocurrencies.
 
 Key Features:
