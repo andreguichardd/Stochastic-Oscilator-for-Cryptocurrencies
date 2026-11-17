@@ -22,9 +22,9 @@ Kraken API key (for fetching Kraken data)
 Installation:
 bash
 Copy code
-pip install streamlit pandas TA-Lib
+pip install streamlit pandas plotly matplotlib krakenex pykrakenapi TA-Lib
 
 Usage:
-Run the Streamlit application: streamlit run root.py
+Run the Streamlit application: streamlit run main.py
 Input required parameters in the Streamlit sidebar.
 Explore cryptocurrency data, candle charts, Stochastic Oscillator results.
